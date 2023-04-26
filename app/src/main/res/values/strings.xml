@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Water</string>
+    <string name="reminder">Reminder</string>
+    <string name="water">Water</string>
+    <string name="stats">Stats</string>
+</resources>
